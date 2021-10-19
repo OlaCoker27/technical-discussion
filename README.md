@@ -20,4 +20,4 @@ This is an example of [my colab](https://colab.research.google.com/drive/1drWGMx
 ### Image
 
 This is an image
-https://user-images.githubusercontent.com/92782958/137873887-9270570c-be9e-4945-affb-1b366b61ce01.png
+![image](https://user-images.githubusercontent.com/92782958/137873887-9270570c-be9e-4945-affb-1b366b61ce01.png)
