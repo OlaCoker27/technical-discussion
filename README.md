@@ -11,3 +11,8 @@ This is a demo repo for sharing ideas around communication
 
 ### Gist
 This is an example of [my code] (https://gist.github.com/OlaCoker27/cf418963dc15586e3100d1612d725f5d)
+
+
+### Colab
+
+This is an example of [my colab](https://colab.research.google.com/drive/1drWGMxkX9SNcvBFbWiCELeMj-hHFAjI8?usp=sharing)
